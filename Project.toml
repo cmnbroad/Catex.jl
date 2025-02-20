@@ -1,0 +1,16 @@
+name = "Catex"
+uuid = "5c636391-7910-4d6f-9cba-26b0089f4090"
+authors = ["Chris Norman <cnorman@broadinstitute.org>"]
+version = "0.1.0"
+
+[deps]
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
+GraphViz = "f526b714-d49f-11e8-06ff-31ed36ee7ee0"
+PlotGraphviz = "78a92bc3-407c-4e2f-aae5-75bb47a6fe36"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+
+[compat]
+Catlab = "0.16.19"
+GraphViz = "0.2.0"
+PlotGraphviz = "0.6.3"
+Plots = "1.40.9"
